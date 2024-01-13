@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Insert student</string>
+    <string name="insert">Insert</string>
+    <string name="nim">123654789</string>
+    <string name="myTask">My Task Information</string>
+    <string name="name">Your Name</string>
+
+</resources>
